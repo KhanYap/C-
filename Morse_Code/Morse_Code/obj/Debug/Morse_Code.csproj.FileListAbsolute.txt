@@ -1,0 +1,10 @@
+C:\Git\C_Sharp\Morse_Code\Morse_Code\bin\Debug\Morse_Code.exe.config
+C:\Git\C_Sharp\Morse_Code\Morse_Code\bin\Debug\Morse_Code.exe
+C:\Git\C_Sharp\Morse_Code\Morse_Code\bin\Debug\Morse_Code.pdb
+C:\Git\C_Sharp\Morse_Code\Morse_Code\obj\Debug\Morse_Code.csprojResolveAssemblyReference.cache
+C:\Git\C_Sharp\Morse_Code\Morse_Code\obj\Debug\Morse_Code.Properties.Resources.resources
+C:\Git\C_Sharp\Morse_Code\Morse_Code\obj\Debug\Morse_Code.csproj.GenerateResource.Cache
+C:\Git\C_Sharp\Morse_Code\Morse_Code\obj\Debug\Morse_Code.exe
+C:\Git\C_Sharp\Morse_Code\Morse_Code\obj\Debug\Morse_Code.pdb
+C:\Git\C_Sharp\Morse_Code\Morse_Code\obj\Debug\Morse_Code.Legend.resources
+C:\Git\C_Sharp\Morse_Code\Morse_Code\obj\Debug\Morse_Code.Morse_Win.resources
